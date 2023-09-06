@@ -7,4 +7,3 @@ Repositório conterá o projeto final de uma aplicação financeira 💲
 
  # Projeto 💻
 - O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💵
-
